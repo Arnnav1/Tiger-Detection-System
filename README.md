@@ -19,8 +19,7 @@ The Tiger Detection System is a cutting-edge application that utilizes Convoluti
    - **Activation Functions:** Implementing ReLU or other activation functions to introduce non-linearity and help the network learn complex patterns.
    - **Pooling Layers:** Reducing dimensionality and retaining the most critical features, which aids in minimizing computational load and enhancing feature extraction.
    - **Fully Connected Layers:** Integrating features learned by convolutional layers to make final classification decisions.
-   - **Archetecture I used:** I hvae used a pre-trained CNN model which is YOLO. YOLO is the best model for real-time image classification. YOLO was not trained to detect tiger so I fine-tuned the model to make 
-                              it recognize tiger.
+   - **Archetecture I used:** I hvae used a pre-trained CNN model which is YOLO v8 n variant. YOLO v8 n is the best model for real-time image classification on smaller devices. YOLO was not trained to detect tiger so I fine-tuned the model to make it recognize tiger.
 
 4. **Training:**
    The CNN is trained using a combination of labeled images and ground truth annotations. This phase involves optimizing the network’s parameters through techniques like backpropagation and gradient descent to minimize detection errors and improve accuracy.
@@ -52,3 +51,5 @@ The Tiger Detection System is a cutting-edge application that utilizes Convoluti
 - 1 X Raspberry Pi 4 Case
 
 By leveraging the power of CNNs, the Tiger Detection System delivers a robust and accurate solution for identifying and monitoring tigers, contributing significantly to wildlife preservation and research.
+
+*Source URLs*
