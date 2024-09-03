@@ -52,4 +52,8 @@ The Tiger Detection System is a cutting-edge application that utilizes Convoluti
 
 By leveraging the power of CNNs, the Tiger Detection System delivers a robust and accurate solution for identifying and monitoring tigers, contributing significantly to wildlife preservation and research.
 
-*Source URLs*
+*Source URLs:*
+- Dataset https://www.kaggle.com/datasets/pranavpendharkar/enlightened-data
+
+*Requirements of packages:*
+- 
