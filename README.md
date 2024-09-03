@@ -40,4 +40,15 @@ The Tiger Detection System is a cutting-edge application that utilizes Convoluti
 - **Ecological Research:** Provides valuable data for researchers studying tiger behavior and habitat usage.
 - **Public Awareness:** Supports educational initiatives by offering real-time insights into tiger presence and movements.
 
+
+
+###Hardware Components:
+- Raspberry Pi 4 (8GB RAM)
+- 1 X Small Bread Board
+- 3 X LEDs(Red, Green and Yellow)
+- 3 X Resistors 185 Ω
+- 3 X Jumper Wires (Male-to-Female)
+- 1 X Raspberry Pi Camera 3(Standard)
+- 1 X Raspberry Pi 4 Case
+
 By leveraging the power of CNNs, the Tiger Detection System delivers a robust and accurate solution for identifying and monitoring tigers, contributing significantly to wildlife preservation and research.
