@@ -42,7 +42,7 @@ The Tiger Detection System is a cutting-edge application that utilizes Convoluti
 
 
 
-###Hardware Components:
+**Hardware Components:**
 - Raspberry Pi 4 (8GB RAM)
 - 1 X Small Bread Board
 - 3 X LEDs(Red, Green and Yellow)
