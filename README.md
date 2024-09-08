@@ -56,4 +56,13 @@ By leveraging the power of CNNs, the Tiger Detection System delivers a robust an
 - Dataset https://www.kaggle.com/datasets/pranavpendharkar/enlightened-data
 
 *Requirements of packages:*
-- 
+- Telepot
+- Time
+- Pyembedded
+- OpenCV
+- Picamera2
+- Ultralytics
+- io
+- Subprocess
+- RPi
+(For more information about packages, read requirements.txt)
