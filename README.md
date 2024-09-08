@@ -65,4 +65,5 @@ By leveraging the power of CNNs, the Tiger Detection System delivers a robust an
 - io
 - Subprocess
 - RPi
+  
 (For more information about packages, read requirements.txt)
